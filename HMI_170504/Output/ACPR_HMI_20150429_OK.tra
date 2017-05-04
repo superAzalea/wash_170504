@@ -1,0 +1,51 @@
+*** Creating Trace Output File '..\Output\ACPR_HMI_20150429_OK.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\output\main.o"'
+### List of Objects: adding '"..\output\systeminit.o"'
+### List of Objects: adding '"..\output\timer.o"'
+### List of Objects: adding '"..\output\usart.o"'
+### List of Objects: adding '"..\output\syspr.o"'
+### List of Objects: adding '"..\output\iic.o"'
+### List of Objects: adding '"..\output\24cxx.o"'
+### List of Objects: adding '"..\output\delay.o"'
+### List of Objects: adding '"..\output\ziku.o"'
+### List of Objects: adding '"..\output\rtc.o"'
+### List of Objects: adding '"..\output\menu.o"'
+### List of Objects: adding '"..\output\adc.o"'
+### List of Objects: adding '"..\output\interrupt_init.o"'
+### List of Objects: adding '"..\output\menu_sub.o"'
+### List of Objects: adding '"..\output\key.o"'
+### List of Objects: adding '"..\output\crc.o"'
+### List of Objects: adding '"..\output\pid.o"'
+### List of Objects: adding '"..\output\systemword.o"'
+### List of Objects: adding '"..\output\lcd_display.o"'
+### List of Objects: adding '"..\output\faultprocess.o"'
+### List of Objects: adding '"..\output\misc.o"'
+### List of Objects: adding '"..\output\stm32f10x_adc.o"'
+### List of Objects: adding '"..\output\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\output\stm32f10x_rtc.o"'
+### List of Objects: adding '"..\output\stm32f10x_tim.o"'
+### List of Objects: adding '"..\output\stm32f10x_usart.o"'
+### List of Objects: adding '"..\output\stm32f10x_bkp.o"'
+### List of Objects: adding '"..\output\stm32f10x_pwr.o"'
+### List of Objects: adding '"..\output\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\output\stm32f10x_sdio.o"'
+### List of Objects: adding '"..\output\startup_stm32f10x_md.o"'
+### List of Objects: adding '"..\output\system_stm32f10x.o"'
+### List of Objects: adding '"..\output\stm32f10x_it.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\output\main.o" "..\output\systeminit.o" "..\output\timer.o" "..\output\usart.o" "..\output\syspr.o" "..\output\iic.o" "..\output\24cxx.o" "..\output\delay.o" "..\output\ziku.o" "..\output\rtc.o" "..\output\menu.o" "..\output\adc.o" "..\output\interrupt_init.o" "..\output\menu_sub.o" "..\output\key.o" "..\output\crc.o" "..\output\pid.o" "..\output\systemword.o" "..\output\lcd_display.o" "..\output\faultprocess.o" "..\output\misc.o" "..\output\stm32f10x_adc.o" "..\output\stm32f10x_rcc.o" "..\output\stm32f10x_rtc.o" "..\output\stm32f10x_tim.o" "..\output\stm32f10x_usart.o" "..\output\stm32f10x_bkp.o" "..\output\stm32f10x_pwr.o" "..\output\stm32f10x_gpio.o" "..\output\stm32f10x_sdio.o" "..\output\startup_stm32f10x_md.o" "..\output\system_stm32f10x.o" "..\output\stm32f10x_it.o" 
+--ro-base 0x08000000 --entry 0x08000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\ACPR_HMI_20150429_OK.map" -o ..\Output\ACPR_HMI_20150429_OK.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\Output\ACPR_HMI_20150429_OK.axf'
+### ADS-LD Command File: '..\Output\ACPR_HMI_20150429_OK.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\Output\ACPR_HMI_20150429_OK.lnp', Handle=0x000006EC
+### Writing '.lnp' file
+### ADS-LD Command file '..\Output\ACPR_HMI_20150429_OK.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
